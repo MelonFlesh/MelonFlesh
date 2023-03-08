@@ -6,7 +6,7 @@ MelonFlesh is a studio of passionate software developers. We may or my not creat
 
 ## MelonFlesh Contributers:
 
-- [@kathiehye](https://github.com/kathiehyu)
+- [@kathiehyu](https://github.com/kathiehyu)
 - [@surety](https://www.github.com/surety)
 
 <a href="https://github.com/MelonFlesh/MelonFlesh/graphs/contributors">
